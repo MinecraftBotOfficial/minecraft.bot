@@ -2,7 +2,7 @@
 [![PRs](https://img.shields.io/github/issues-pr-closed-raw/MinecraftBotOfficial/minecraft.bot.svg?style=flat-square&colorB=FFE70B&label=pull%20requests)](https://github.com/MinecraftBotOfficial/minecraft.bot/pulls?q=is%3Apr+is%3Aclosed+label%3Aadd)
 [![Contributors](https://img.shields.io/github/contributors-anon/MinecraftBotOfficial/minecraft.bot?color=FFE70B&style=flat-square)](https://github.com/MinecraftBotOfficial/minecraft.bot/graphs/contributors)
 [![Activity](https://img.shields.io/github/commit-activity/m/MinecraftBotOfficial/minecraft.bot?color=FFE70B&style=flat-square)](https://github.com/MinecraftBotOfficial/minecraft.bot/pulse/monthly)
-[![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/minecraft.bot)
+[![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/)
 
 :boom::boom::boom:
 ***Due to the increased number of requests for Minecraft.BOT subdomains recently, with many having questionable relevancy to the Minecraft community and ecosystem, we've decided that going forward Minecraft.BOT will be focusing on accepting subdomain requests from projects with a clear relation to the Minecraft community.***
