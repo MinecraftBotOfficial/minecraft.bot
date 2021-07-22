@@ -5,7 +5,7 @@
 [![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/minecraft.bot)
 
 :boom::boom::boom:
-***Due to the increased number of requests for Minecraft.BOT subdomains recently, with many having questionable relevancy to the JavaScript community and ecosystem, we've decided that going forward Minecraft.BOT will be focusing on accepting subdomain requests from projects with a clear relation to the Minecraft community.***
+***Due to the increased number of requests for Minecraft.BOT subdomains recently, with many having questionable relevancy to the Minecraft community and ecosystem, we've decided that going forward Minecraft.BOT will be focusing on accepting subdomain requests from projects with a clear relation to the Minecraft community.***
 
 ***As some examples, personal pages, blogs, and Test pages will no longer be accepted. Projects such as Minecraft servers, Minecraft Plugins, tools that have a clear and direct relation to Minecraft, will be accepted when requesting a Minecraft.BOT subdomain. This decision does not affect subdomains that have already been granted.***
 :boom::boom::boom:
