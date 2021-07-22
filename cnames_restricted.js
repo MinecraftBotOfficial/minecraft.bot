@@ -9,7 +9,7 @@
  **** EXPLANATION
  * ****************
  *
- *      Some of these subdomains are reserved for JS.ORG itself (e.g.: mail.js.org, admin.js.org).
+ *      Some of these subdomains are reserved for Minecraft.BOT itself (e.g.: mail.minecraft.bot, admin.minecraft.bot).
  *      Others are so generic that they should be used for community driven pages only (e.g.: blog.minecraft.bot, docs.minecraft.bot).
  *      If you are willing to use one of the restricted subdomains in a way the community can benefit and participate, you can always file an issue and start a discussion.
  *
