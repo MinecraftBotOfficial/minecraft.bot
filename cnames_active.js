@@ -37,5 +37,5 @@
 
 var cnames_active = {
  "": "minecraftbotofficial.github.io",
- "example": "lnfernal.github.io" // This one is actually invalid since it's an example to demonstrate an example site
+ "example": "eager-cray-824b94.netlify.app" // This one is actually invalid since it's an example to demonstrate an example site
 }
