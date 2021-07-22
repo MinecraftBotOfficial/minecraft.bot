@@ -37,5 +37,5 @@
 
 var cnames_active = {
  "": "minecraftbotofficial.github.io",
- "example": "lnfernal.github.io"
+ "example": "lnfernal.github.io" // This one is actually lnfernal.github.io/drakesite
 }
