@@ -18,6 +18,8 @@
 var cnames_restricted = [
     "(1/2/3/...)",
     "minecraft",
+    "",
+    "roblox"
     "a11y",
     "about",
     "account(s)",
