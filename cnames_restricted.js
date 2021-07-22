@@ -17,9 +17,7 @@
 
 var cnames_restricted = [
     "(1/2/3/...)",
-    "minecraft",
     "",
-    "roblox"
     "a11y",
     "about",
     "account(s)",
@@ -154,6 +152,7 @@ var cnames_restricted = [
     "member(s)",
     "mobile",
     "module(s)",
+    "minecraft",
     "mx",
     "my",
     "native",
@@ -193,6 +192,7 @@ var cnames_restricted = [
     "rest",
     "review(s)",
     "root(s)",
+    "roblox"
     "rss",
     "run",
     "school(s)",
