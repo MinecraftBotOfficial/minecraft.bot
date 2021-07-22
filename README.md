@@ -4,15 +4,13 @@
 [![Activity](https://img.shields.io/github/commit-activity/m/MinecraftBotOfficial/minecraft.bot?color=FFE70B&style=flat-square)](https://github.com/MinecraftBotOfficial/minecraft.bot/pulse/monthly)
 [![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-1F87FF.svg?style=flat-square&logo=open-collective&logoColor=fff)](https://opencollective.com/)
 
-:boom::boom::boom:
-***Due to the increased number of requests for Minecraft.BOT subdomains recently, with many having questionable relevancy to the Minecraft community and ecosystem, we've decided that going forward Minecraft.BOT will be focusing on accepting subdomain requests from projects with a clear relation to the Minecraft community.***
+***Minecraft.BOT will only accept subdomain requests from projects with a clear relation to the Minecraft community.***
 
-***As some examples, personal pages, blogs, and Test pages will no longer be accepted. Projects such as Minecraft servers, Minecraft Plugins, tools that have a clear and direct relation to Minecraft, will be accepted when requesting a Minecraft.BOT subdomain. This decision does not affect subdomains that have already been granted.***
-:boom::boom::boom:
+***As some examples, personal pages, blogs, and test pages will not be accepted. Projects such as Minecraft servers, Minecraft Plugins, Minecraft Bot, and other projects that have a clear and direct relation to Minecraft, will be accepted when requesting a Minecraft.BOT subdomain.***
 
 ---
 
-**To get a short and sleek subdomain for your own GitHub Pages site follow these 4 Steps:**
+**To get a short and sleek subdomain for your own website follow these 4 Steps:**
 
 ### Step 1
 If you haven't already, now it's time to log in to your GitHub account and set up your GitHub Pages site following the instructions [here](https://pages.github.com/). To get a head start you can simply use the generator with one of the provided themes and **add some reasonable content to your new page**.
