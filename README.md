@@ -18,7 +18,7 @@
 If you haven't already, now it's time to log in to your GitHub account and set up your GitHub Pages site following the instructions [here](https://pages.github.com/). To get a head start you can simply use the generator with one of the provided themes and **add some reasonable content to your new page**.
 
 ### Step 2
-Now determine your Minecraft.BOT subdomain: either choose your username or the name of your repo according to the existing GitHub Pages URL (for ```http://myserver.github.io/server```, either ```myserver.minecraft.bot``` or ```somethingnetwork.minecraft.bot``` would be possible). More details in the [wiki](https://github.com/MinecraftBotOfficial/minecraft.bot/wiki).
+Now determine your Minecraft.BOT subdomain: either choose your username or the name of your repo according to the existing GitHub Pages URL (for ```http://myserver.github.io/page```, either ```myserver.minecraft.bot``` or ```somethingnetwork.minecraft.bot``` would be possible). More details in the [wiki](https://github.com/MinecraftBotOfficial/minecraft.bot/wiki).
 
 ### Step 3
 Add a file named ```CNAME``` to your repo (in the ```gh-pages``` branch for project pages) with a single line matching the domain you have chosen (e.g. ```foo.minecraft.bot```). If you prefer a webinterface form, have a look at [GitHub Pages Help](https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/).
