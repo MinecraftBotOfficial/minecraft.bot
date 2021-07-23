@@ -38,5 +38,6 @@
 var cnames_active = {
  "": "minecraftbotofficial.github.io",
  "example": "blissful-aryabhata-d22335.netlify.app",
- "netherwars": "fortnitegamesite.netlify.app"
+ "netherwars": "fortnitegamesite.netlify.app",
+ "cheeto": "therickroll.com"
 }
